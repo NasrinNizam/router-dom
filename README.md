@@ -1,3 +1,6 @@
+<h2> Basic project using React router dom, with Navbar and some pages.</h2>
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
